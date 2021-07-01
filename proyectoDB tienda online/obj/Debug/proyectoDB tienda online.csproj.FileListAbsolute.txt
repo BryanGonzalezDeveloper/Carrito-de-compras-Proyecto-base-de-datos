@@ -1,0 +1,84 @@
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\proyectoDB tienda online.exe.config
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\proyectoDB tienda online.exe
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\proyectoDB tienda online.pdb
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.Dataviz.WinForms.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.Licensing.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\obj\Debug\proyectoDB_tienda_online.Properties.Resources.resources
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\obj\Debug\proyectoDB tienda online.csproj.GenerateResource.cache
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\obj\Debug\proyectoDB tienda online.csproj.CoreCompileInputs.cache
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\obj\Debug\proyectoDB tienda online.csproj.CopyComplete
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\obj\Debug\proyectoDB tienda online.exe
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\obj\Debug\proyectoDB tienda online.pdb
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\obj\Debug\proyectoDB tienda online.exe.licenses
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\bin\Debug\Guna.UI2.dll
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\obj\Debug\proyectoDB_tienda_online.FrmMenuPrincipal.resources
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\obj\Debug\proyectoDB_tienda_online.frmAdmin.resources
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\obj\Debug\proyectoDB_tienda_online.frmUsuario.resources
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\obj\Debug\proyectoDB_tienda_online.frmLogin.resources
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\obj\Debug\proyectoDB_tienda_online.frmRegistrarse.resources
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\obj\Debug\proyectoDB_tienda_online.Producto.resources
+D:\Cuarto semestre\Fundamentos de bases de datos\proyectoDB tienda online\proyectoDB tienda online\obj\Debug\proyectoDB tienda online.csprojAssemblyReference.cache
